@@ -1,9 +1,12 @@
 # World_Weather_Analysis
 
 ## Purpose: 
+
 PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
 
 We were tasked with answering a question: How might we provide real-time suggestions for our client's ideal hotels? So after we defined what "ideal" really means. We narrowed our search to hotels that were (1) within a given range of latitude and longitude and that (2) provided the right kind of weather for our client.
+
+## Process :
 
 We followed our 3 step process in doing our analysis :
 - Retrieve Weather Data - Collect and analyze weather data across cities worldwide.
